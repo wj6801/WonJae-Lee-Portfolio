@@ -1,4 +1,4 @@
-# Data Scientist
+# Looking for a Job
 
 #### Technical Skills: 
 - Programming: Python, Java, R, SQL, MATLAB, Git/GitHub, Scikit-learn, Machine Learning, Data Science, Data Analysis, Data Visualization, HTML, API, Microsoft Office, Jupyter Notebook, Anaconda, LLM

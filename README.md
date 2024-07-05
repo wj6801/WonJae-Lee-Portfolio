@@ -11,10 +11,10 @@ Passionate and detail-oriented Cognitive Science graduate specializing in Machin
 ## Education		        		
 B.S., Cognitive Science with a Specialization in Machine Learning and Neural Computation (major) / Data Science (minor) | University of California, San Diego (_June 2024_)
 
-## Honors/Awards
+### Honors/Awards
 Provost Honors (2022-2024)
 
-## Relevant Courses
+### Relevant Courses
 Supervised/Unsupervised Machine Learning Algorithms, Data Analysis and Inference, Brain Computer Interfaces, Theoretical Foundations of Data Science, Data Science in Practice, Programming/Data Structure for Data Science, Data Structure/Algorithm for Data Science, Modeling & Data Analysis, Practice of Data Science, Statistical Methods, Practical Data Science in R, Large Language Models and Cognitive Science, Introduction to Data Management, Advanced Machine Learning Methods, Artificial Intelligence Algorithms
 
 ## Programming Projects

@@ -28,3 +28,10 @@ Supervised/Unsupervised Machine Learning Algorithms, Data Analysis and Inference
 - [An Analysis on Factors of Motion Sickness in Relation to Virtual Reality (Jul 2023 – Aug 2023) \[Project Lead\]](https://wj6801.github.io/Motion_Sickness_and_Virtual_Reality/): Performed motion sickness prediction using a virtual reality experience dataset with linear regression,random forest, ANN, KNN, and XGBoost
 - [Real Estate Prediction: Machine Learning Techniques to Predict Russian Real Estate Market (Mar 2023 – June 2023)](https://wj6801.github.io/Real-Estate-Prediction/): Performed CART Linear Regression using L1 Regularization, variants of linear and polynomial regression using L2 Regularization, Random Forest, XGBoost, DNN and used MAE to evaluate performance
 - [Machine Learning for Email Spam Classification: Preprocessing Techniques and Model Comparison (Jan 2023 – Mar 2023)](./another-page.html): Performed email classification using machine learning algorithms on a dataset of 4601 emails and their associated features to develop an effective algorithm to classify spam mails
+
+## Work Experience
+**Helport AI**, La Jolla, CA (November 2023 - January 2024): Knowledge-Based AI Prototype Development Intern
+- Designed a knowledge-based AI service in accordance with real industrial needs and implemented a prototype model with fundamental capabilities   
+
+**Republic of Korea Air Force**, Daegu, South Korea (November 2020 - August 2022): Bilingual Interpreter/Human Resources/CBRN Soldier
+- Managed and assigned service member schedules and duties (Human Resources, Management, and Administration) and delivered real-time, accurate oral translations and interpretations for US Air Force and Korean Air Force clients, and also proofread, edited, and revised translated documents

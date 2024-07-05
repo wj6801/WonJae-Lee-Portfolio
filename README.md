@@ -16,7 +16,7 @@ Supervised/Unsupervised Machine Learning Algorithms, Data Analysis and Inference
 
 ## Programming Projects
 - [Character-Level Recurrent Neural Networks Trained on Various Datasets for Writing Style Replication
-(Mar 2024 – June 2024)](https://wj6801.github.io/Char-RNNs-for-Writing-Style-Replication/)
+(Mar 2024 – June 2024)](https://wj6801.github.io/Char-RNNs-for-Writing-Style-Replication/): Developed and evaluated character-level recurrent neural network models to replicate the writing styles of various authors, including Shakespeare, Arthur Conan Doyle, and J.D. Salinger, as well as the structured style of Wikipedia
 - [AI Wordle Solver with Reinforcement Learning (Mar 2024 - June 2024)](https://wj6801.github.io/AI-Wordle-Solver-with-Reinforcement-Learning/): Developed and evaluated reinforcement learning algorithms (A2C and PPO) to create AI agents capable of solving the Wordle game, achieving success ratios and average guess metrics comparable to human players.
 - [Credit Card Fraud Transaction Analysis and Classification (Jan 2024 – May 2024) \[Project Lead\]](https://wj6801.github.io/Credit-Card-Fraud/): Achieved 97% accuracy on credit card fraud transaction using a custom ensemble model and analyzed features significant in fraud transaction classification
 - [ResNet Architecture Variation Comparison (Jan 2024 – Mar 2024)](https://wj6801.github.io/ResNet-Comparison/): Achieved 75.68% accuracy using ResNet with adaptive average pooling and SGD optimization to classify the CIFAR-10 dataset

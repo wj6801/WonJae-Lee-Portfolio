@@ -24,8 +24,8 @@ Supervised/Unsupervised Machine Learning Algorithms, Data Analysis and Inference
 
 - [Credit Card Fraud Transaction Analysis and Classification (Jan 2024 – May 2024) \[Project Lead\]](./another-page.html)
 - [ResNet Architecture Variation Comparison (Jan 2024 – Mar 2024)](./another-page.html)
-- [League of Legends Analysis (Sep 2023 – Dec 2023)](./https://wj6801.github.io/League-of-Legends-Win-Rate-Analysis/)
-- [League of Legends Prediction (Sep 2023 – Dec 2023)](./https://wj6801.github.io/League-of-Legends-Result-Prediction/)
+- [League of Legends Analysis (Sep 2023 – Dec 2023)](https://wj6801.github.io/League-of-Legends-Win-Rate-Analysis/)
+- [League of Legends Prediction (Sep 2023 – Dec 2023)](https://wj6801.github.io/League-of-Legends-Result-Prediction/)
 - [An Analysis on Factors of Motion Sickness in Relation to Virtual Reality (Jul 2023 – Aug 2023) \[Project Lead\]](./another-page.html)
 - [Real Estate Prediction: Machine Learning Techniques to Predict Russian Real Estate Market (Mar 2023 – June 2023)](./another-page.html)
 - [Machine Learning for Email Spam Classification: Preprocessing Techniques and Model Comparison (Jan 2023 – Mar 2023)](./another-page.html)

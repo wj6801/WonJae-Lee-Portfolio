@@ -15,7 +15,7 @@ B.S., Cognitive Science with a Specialization in Machine Learning and Neural Com
 Provost Honors (2022-2024)
 
 ### Relevant Courses
-Supervised/Unsupervised Machine Learning Algorithms, Data Analysis and Inference, Brain Computer Interfaces, Theoretical Foundations of Data Science, Data Science in Practice, Programming/Data Structure for Data Science, Data Structure/Algorithm for Data Science, Modeling & Data Analysis, Practice of Data Science, Statistical Methods, Practical Data Science in R, Large Language Models and Cognitive Science, Introduction to Data Management, Advanced Machine Learning Methods, Artificial Intelligence Algorithms
+Supervised/Unsupervised Machine Learning Algorithms, Data Analysis and Inference, Brain Computer Interfaces, Theoretical Foundations of Data Science, Data Science in Practice, Programming/Data Structure for Data Science, Data Structure/Algorithm for Data Science, Modeling & Data Analysis, Practice of Data Science, Statistical Methods, Practical Data Science in R, Large Language Models and Cognitive Science, Neural Networks/Deep Learning, Introduction to Data Management, Advanced Machine Learning Methods, Artificial Intelligence Algorithms
 
 ## Programming Projects
 - [Character-Level Recurrent Neural Networks Trained on Various Datasets for Writing Style Replication

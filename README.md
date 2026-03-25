@@ -1,4 +1,4 @@
-# Hi, I'm WonJae Lee
+# Hi, I'm Wonjae Lee
 
 Master of Data Science student at UC Irvine with a background in Cognitive Science (ML & Neural Computation) from UC San Diego. I focus on deep learning, Bayesian inference, and healthcare ML — building models that work honestly on messy, real-world data.
 
